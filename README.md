@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2457A6&height=200&section=header&text=Sha-Neal%20Prather&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%26%20Assurance%20%7C%20CompTIA%20A%2B%20%7C%20Nurse%20%E2%86%92%20Tech&descAlignY=58&descColor=ffffff" width="100%"/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sha--Neal%20Prather-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sha-neal-prather-845521372)
 [![WGU](https://img.shields.io/badge/WGU-Cybersecurity%20%26%20Assurance-B4232A?style=for-the-badge&logoColor=white)]()
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20Certified-C8202F?style=for-the-badge&logo=comptia&logoColor=white)]()
