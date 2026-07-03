@@ -1,29 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2457A6&height=200&section=header&text=Sha-Neal%20Prather&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%26%20Assurance%20%7C%20CompTIA%20A%2B%20%7C%20Nurse%20%E2%86%92%20Tech&descAlignY=58&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2457A6&height=180&section=header&text=Sha-Neal%20Prather&fontSize=52&fontColor=ffffff&fontAlignY=42" width="100%"/>
+
+### Cybersecurity & Assurance &nbsp;·&nbsp; CompTIA A+ Certified &nbsp;·&nbsp; Nurse → Tech
 
 <br/>
 
-<a href="https://linkedin.com/in/sha-neal-prather-845521372">
-  <img src="https://img.shields.io/badge/LinkedIn-Sha--Neal%20Prather-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
-</a>
-&nbsp;
-<a href="https://www.wgu.edu/">
-  <img src="https://www.wgu.edu/etc.clientlibs/wgu/clientlibs/clientlib-site/resources/images/wgu-logo.svg" alt="WGU" height="28"/>
-</a>
-&nbsp;
-<a href="https://www.comptia.org/certifications/a">
-  <img src="https://img.shields.io/badge/CompTIA-A%2B%20Certified-C8202F?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" height="28"/>
-</a>
-&nbsp;
-<a href="https://www.colorstack.org/">
-  <img src="https://cdn.prod.website-files.com/61ae4846c32bb55b23085ccd/621150da29e6f9048c44a6dd_Logo.png" alt="ColorStack" height="28"/>
-</a>
-
-<br/><br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sha--Neal%20Prather-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sha-neal-prather-845521372)
+[![WGU](https://img.shields.io/badge/WGU-Cybersecurity%20%26%20Assurance-B4232A?style=for-the-badge&logoColor=white)](https://www.wgu.edu/)
+[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20Certified-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/a)
+[![ColorStack](https://img.shields.io/badge/ColorStack-Member-4F7F6F?style=for-the-badge&logoColor=white)](https://www.colorstack.org/)
 
 </div>
-
 
 ---
 
@@ -114,13 +102,3 @@ I'm always open to connecting with others in the cybersecurity and IT community 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2457A6&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
