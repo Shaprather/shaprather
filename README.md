@@ -1,11 +1,29 @@
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sha--Neal%20Prather-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sha-neal-prather-845521372)
-[![WGU](https://img.shields.io/badge/WGU-Cybersecurity%20%26%20Assurance-B4232A?style=for-the-badge&logoColor=white)]()
-[![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B%20Certified-C8202F?style=for-the-badge&logo=comptia&logoColor=white)]()
-[![ColorStack](https://img.shields.io/badge/ColorStack-Member-4F7F6F?style=for-the-badge&logoColor=white)]()
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2457A6&height=200&section=header&text=Sha-Neal%20Prather&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%26%20Assurance%20%7C%20CompTIA%20A%2B%20%7C%20Nurse%20%E2%86%92%20Tech&descAlignY=58&descColor=ffffff" width="100%"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/sha-neal-prather-845521372">
+  <img src="https://img.shields.io/badge/LinkedIn-Sha--Neal%20Prather-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+</a>
+&nbsp;
+<a href="https://www.wgu.edu/">
+  <img src="https://www.wgu.edu/etc.clientlibs/wgu/clientlibs/clientlib-site/resources/images/wgu-logo.svg" alt="WGU" height="28"/>
+</a>
+&nbsp;
+<a href="https://www.comptia.org/certifications/a">
+  <img src="https://img.shields.io/badge/CompTIA-A%2B%20Certified-C8202F?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" height="28"/>
+</a>
+&nbsp;
+<a href="https://www.colorstack.org/">
+  <img src="https://cdn.prod.website-files.com/61ae4846c32bb55b23085ccd/621150da29e6f9048c44a6dd_Logo.png" alt="ColorStack" height="28"/>
+</a>
+
+<br/><br/>
 
 </div>
+
 
 ---
 
@@ -32,7 +50,7 @@ No simulations. No sandboxes that forgive everything. Real systems, real evidenc
 | 🐧 Linux & SysAdmin | Proxmox LXC · Tailscale SSH | Active |
 | 🎫 Help Desk & Ticketing | Zammad · ARIA AI Mentor | Active |
 | 🪪 Identity & IAM | Active Directory · Microsoft Entra | Active |
-| 🌐 Networking & Cisco | EVE-NG · Cisco IOS | Upcoming |
+| 🌐 Networking & Cisco | EVE-NG · Cisco IOS | Active |
 | 🛡️ Security & SOC | Wazuh SIEM | Upcoming |
 
 ---
